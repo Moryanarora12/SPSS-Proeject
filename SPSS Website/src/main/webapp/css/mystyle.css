@@ -1,0 +1,9 @@
+body{
+overflow-x: hidden; 	
+}
+.background-color{
+	background: #546E7A !important;
+}
+.banner-background{
+	clip-path: polygon(0 0, 100% 0, 100% 97%, 75% 100%, 25% 100%, 0 97%);
+}
